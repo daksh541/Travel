@@ -43,6 +43,7 @@ This will launch the website at file:///C:/Users/Hp/OneDrive/WEB/HTML/Travel.htm
 ## Live Demo
 Explore the live demo hosted on GitHub Pages:View Live Demo
 Project Structure
+```
 travel-explorer/
 ├── src/
 │   ├── index.html
@@ -58,6 +59,7 @@ travel-explorer/
 ├── LICENSE
 ├── CONTRIBUTING.md
 └── CODE_OF_CONDUCT.md
+```
 
 ## Contributing
 We welcome contributions to enhance Travel Explorer! To contribute:
